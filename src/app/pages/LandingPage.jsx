@@ -25,7 +25,7 @@ export default function LandingPage(){
                 <h1>www.cocoease.com</h1>
             </div>
 
-            <img className="w-1/2 hidden rounded-xl m-5 lg:block relative z-10" src="bg.png"/>
+            <img className="lg:w-1/2 hidden rounded-xl m-2 lg:block relative z-10 object-cover" src="bg.png"/>
         </div>
 
     )
