@@ -14,7 +14,7 @@ export default function LandingPage(){
 
             <div className="relative z-10 flex justify-center items-center p-5 flex-col lg:w-1/2">
                 <img className="w-48" src="logo.png" alt="Coco Ease Logo"/>
-                <h1 className="mt-4 text-[#343434] text-2xl font-bold">Growing Stronger Together</h1>
+                <h1 className="mt-4 text-[#343434] text-2xl font-bold">growing stronger together</h1>
                 <h1 className="mt-10 text-center text-[#167A15] font-semibold text-xl">
                     Delivering high quality coco substrates and coir fibre products that are tailored to meet the needs of commercial growers.
                 </h1>
